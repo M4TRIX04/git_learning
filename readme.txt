@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 
 dev1 branch commit
+dev2 branch commit
